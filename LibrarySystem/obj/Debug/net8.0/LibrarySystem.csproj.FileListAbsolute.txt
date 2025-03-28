@@ -12,3 +12,4 @@ C:\Users\User\source\repos\LibrarySystem\LibrarySystem\obj\Debug\net8.0\refint\L
 C:\Users\User\source\repos\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
 C:\Users\User\source\repos\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
 C:\Users\User\source\repos\LibrarySystem\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll
+C:\Users\User\source\repos\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.sourcelink.json
